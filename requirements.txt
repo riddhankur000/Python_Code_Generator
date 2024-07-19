@@ -1,5 +1,0 @@
-gradio-client==1.0.1
-langchain
-langchain-community
-streamlit
-python-dotenv
